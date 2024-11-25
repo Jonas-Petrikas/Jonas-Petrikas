@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jonas-Petrikas
-- 👀 I’m interested in marketing and software development
+- 👋 Hi, I’m @Jonas-Petrikas, a marketer trasnitioning into coding
+- 👀 I’m interested in software development & marketing
 - 🌱 I’m currently learning JavaScript, practicing CSS and HTML
 
 <!---
