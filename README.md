@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonas-Petrikas, a marketer transitioning into coding
+- 👋 Hi, I’m @Jonas-Petrikas, a marketer turning into a developer
 - 👀 I’m interested in software development & marketing
 - 🦖 I’m currently learning JavaScript, practicing CSS and HTML
 
