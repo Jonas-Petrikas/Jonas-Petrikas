@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Jonas-Petrikas, an aspiring full-stack web developer with marketing background
-- 👀 I’m interested in web development, video production & marketing
 - 🦖 I’m currently starting to learn PHP, practicing REACT, JS, NodeJS, CSS and HTML
+- 👀 Looking forward to projects together!
 
 <!---
 Jonas-Petrikas/Jonas-Petrikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
