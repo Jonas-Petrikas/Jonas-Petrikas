@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jonas-Petrikas, a marketer turning into a developer
-- 👀 I’m interested in software/web development & marketing
-- 🦖 I’m currently learning JavaScript, NodeJS, practicing CSS and HTML
+- 👋 Hello, I’m @Jonas-Petrikas, a developer with marketing background
+- 👀 I’m interested in web development, video production & marketing
+- 🦖 I’m currently starting to learn PHP, practicing REACT, JS, NodeJS, CSS and HTML
 
 <!---
 Jonas-Petrikas/Jonas-Petrikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
