@@ -1,3 +1,5 @@
+![image](https://dev.jonaspetrikas.com/Jonas-git%20banner.png)
+
 - 👋 Hello, I’m @Jonas-Petrikas, an aspiring full-stack web developer with marketing background
 - 🦖 I’m currently starting to learn PHP, practicing REACT, JS, NodeJS, CSS and HTML
 - 👀 Looking forward to projects together!
