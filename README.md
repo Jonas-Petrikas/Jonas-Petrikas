@@ -1,8 +1,8 @@
 ![image](https://dev.jonaspetrikas.com/GH-cover.jpg)
 
-- 👋 Hello, I’m @Jonas-Petrikas, an aspiring full-stack web developer with marketing background
-- 🦖 I’m currently starting to learn PHP, practicing REACT, JS, NodeJS, CSS and HTML
-- 👀 Looking forward to projects together!
+- 👋 Hello, I’m @Jonas-Petrikas, full-stack web developer with marketing background
+- 🦖 I’m currently progressing in PHP, practicing REACT, JS, NodeJS, CSS and HTML
+- 👀 Looking forward to new projects!
 
 <!---
 Jonas-Petrikas/Jonas-Petrikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
