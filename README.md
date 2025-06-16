@@ -1,4 +1,4 @@
-![image](https://dev.jonaspetrikas.com/HG-cover.jpg)
+![image](https://dev.jonaspetrikas.com/GH-cover.jpg)
 
 - 👋 Hello, I’m @Jonas-Petrikas, an aspiring full-stack web developer with marketing background
 - 🦖 I’m currently starting to learn PHP, practicing REACT, JS, NodeJS, CSS and HTML
